@@ -1,0 +1,7 @@
+emp_id	employer	startyear	endyear
+1001	Microsoft	2015	2020			 
+1001	Google	2020	2022	
+1002	Google	2015	2020	
+1002	Amazon	2020	2022	
+1002	Microsoft	2022	2023
+1003	Amazon	2020	2023
